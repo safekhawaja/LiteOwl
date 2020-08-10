@@ -30,8 +30,8 @@ IoT Chair connected to a web app (ThingSpeak) using Wi-Fi enabled Arduino.
 
 FEATURES:
 
-1. LED Screen displaying how to fix your posture (e.g. lean back) at four points based on resistance of some pressure dependent variable resistors
+1. LED Screen displaying how to fix your posture (e.g. "lean back") at four points based on resistance of pressure dependent variable resistors
 
 2. Massage - vibration generators triggered with a switch
 
-3. M&M Dispenser for when you’ve been a good boy (counting function for good posture at all points of pressure sensor for 30 mins)
+3. M&M Dispenser using a counting function for good posture at all points of pressure sensor for 30 mins
