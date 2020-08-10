@@ -5,7 +5,7 @@
 
 ![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.15.22%20PM.png)
 
-Best Final Project, Product Design I (Instructor Rated)
+Best Final Project, Product Design I (Instructor Rated) — Collaborated with Ahmed Lone, Karman Cheema and Keen Thompson
 
 ASK 
 
@@ -24,7 +24,7 @@ We redesigned the student lamp. LiteOwl sticks on walls and features voice contr
 
 ![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.22.08%20PM.png)
 
-Best Final Project, Introduction To Circuits and Systems
+Best Final Project, Introduction To Circuits and Systems — Collaborated with Gaston Arguindegui
 
 IoT Chair connected to a web app (ThingSpeak) using Wi-Fi enabled Arduino. 
 
