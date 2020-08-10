@@ -1,4 +1,4 @@
-# Miscellaneous Product & IoT Projects (un-documented)
+# Miscellaneous Product IoT Projects (un-documented)
 
 # 1: LiteOwl
 [Promo Video](https://youtu.be/raqneUCBkyI)
@@ -43,7 +43,7 @@ IoT Chair connected to a web app (ThingSpeak) using Wi-Fi enabled Arduino.
 
 Collaborated with Alina Peng and Haojong Lu
 
-Sensaira is an *anti-pollution watch biosensor* that detects and responds to low oxygen levels in urban environments through gold yeast, and it notifies users through visual and audio feedback with a color change and emergency alarm. 
+Sensaira is an __*anti-pollution watch biosensor*__ that detects and responds to low oxygen levels in urban environments through gold yeast, and it notifies users through visual and audio feedback with a color change and emergency alarm. 
 
 This biosensor has the parts of a wearable “watch,” genetically-modified yeast, a micro-controller and power source for Internet connectivity, integrated Bluetooth features (to connect to Apple Health or another application), and a method of detaching the dial to replace the yeast. The form is a re-imagining of the now redundant watch thanks to phones.
 
