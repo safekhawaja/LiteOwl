@@ -20,7 +20,7 @@ We redesigned the student lamp. LiteOwl sticks on walls and features voice contr
 # 2: Work Incentive Chair
 [Promo Video](https://youtu.be/AwCX8rc5VsI)
 
-![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.15.22%20PM.png)
+![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.22.08%20PM.png)
 
 IoT Chair connected to a web app (ThingSpeak) using Wi-Fi enabled Arduino. 
 
