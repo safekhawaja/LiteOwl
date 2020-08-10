@@ -39,7 +39,7 @@ FEATURES:
 # 3: Sensaira
 [Design Case](https://www.saifkhawaja.com/sensaira)
 
-![](https://www.saifkhawaja.com/sensaira)
+![](https://github.com/safekhawaja/misc_IoT/blob/master/Sensaira%2B3D%2BMockup-2.jpg)
 
 Collaborated with Alina Peng and Haojong Lu
 
