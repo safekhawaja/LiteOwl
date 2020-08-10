@@ -1,4 +1,4 @@
-# Miscellaneous IoT Projects (un-documented)
+# Miscellaneous Product & IoT Projects (un-documented)
 
 # 1: LiteOwl
 [Promo Video](https://youtu.be/raqneUCBkyI)
