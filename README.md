@@ -5,17 +5,17 @@
 
 ![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.15.22%20PM.png)
 
-Best Final Project, Product Design I (Instructor Rated) — Collaborated with Ahmed Lone, Karman Cheema and Keen Thompson
+*Best Final Project, Product Design I (Instructor Rated)* — Collaborated with Ahmed Lone, Karman Cheema and Keen Thompson
 
-*ASK
+**ASK**
 
 Students have to stay up til the wee hours of the morning, more often than not. Mental health issues are pervasive and people don’t receive enough sleep — when they do, it isn’t restful. We looked to redesign a product centered around their behaviors rather than fixing the behavior.
 
-*INSIGHT
+**INSIGHT**
 
 The common platform for working late is the computer. These and the lights around you mimic daytime, so your body doesn’t start it’s winding down process. Blue light filters (such as f.lux) help block the spectrum of light your body recognizes as daylight, but only on computers.
 
-*SOLUTION
+**SOLUTION**
 
 We redesigned the student lamp. LiteOwl sticks on walls and features voice control (Google Speech API), a long wavelength mode for softer lighting, and even a party mode (alternating colors of LEDs). We know you college students love a party. 
 
@@ -24,11 +24,11 @@ We redesigned the student lamp. LiteOwl sticks on walls and features voice contr
 
 ![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.22.08%20PM.png)
 
-Best Final Project, Introduction To Circuits and Systems — Collaborated with Gaston Arguindegui
+*Best Final Project, Introduction To Circuits and Systems* — Collaborated with Gaston Arguindegui
 
 IoT Chair connected to a web app (ThingSpeak) using Wi-Fi enabled Arduino. 
 
-FEATURES:
+**FEATURES:**
 
 1. LED Screen displaying how to fix your posture (e.g. "lean back") at four points based on resistance of pressure dependent variable resistors
 
@@ -43,7 +43,7 @@ FEATURES:
 
 Collaborated with Alina Peng and Haojong Lu
 
-Sensaira is an anti-pollution watch biosensor that detects and responds to low oxygen levels in urban environments through gold yeast, and it notifies users through visual and audio feedback with a color change and emergency alarm. 
+Sensaira is an *anti-pollution watch biosensor* that detects and responds to low oxygen levels in urban environments through gold yeast, and it notifies users through visual and audio feedback with a color change and emergency alarm. 
 
 This biosensor has the parts of a wearable “watch,” genetically-modified yeast, a micro-controller and power source for Internet connectivity, integrated Bluetooth features (to connect to Apple Health or another application), and a method of detaching the dial to replace the yeast. The form is a re-imagining of the now redundant watch thanks to phones.
 
