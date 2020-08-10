@@ -1,3 +1,3 @@
 # misc_IoT
 
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/raqneUCBkyI)
+[![](Screen Shot 2020-08-10 at 2.15.22 PM.png)](https://youtu.be/raqneUCBkyI)
