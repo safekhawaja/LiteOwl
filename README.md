@@ -2,6 +2,7 @@
 
 # 1: Seamless
 [Design Case](https://www.saifkhawaja.com/seamless)
+
 [Video Demonstration](https://youtu.be/tIBk68pGvAc)
 
 ![](https://github.com/safekhawaja/misc_IoT/blob/master/IMG_1288.jpg)
