@@ -26,7 +26,7 @@ We redesigned the student lamp. LiteOwl sticks on walls and features voice contr
 
 *Best Final Project, Introduction To Circuits and Systems* — Collaborated with Gaston Arguindegui
 
-IoT Chair connected to a web app (ThingSpeak) using two Arduinos (one Wi-Fi enabled, one not). 
+IoT Chair connected to a web app (ThingSpeak) using two Arduinos (one Wi-Fi enabled, one not — interconnected via bluetooth). 
 
 **FEATURES:**
 
