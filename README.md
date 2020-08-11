@@ -1,23 +1,20 @@
 # Miscellaneous Product IoT Projects (un-documented)
 
-# 1: LiteOwl
-[Promo Video](https://youtu.be/raqneUCBkyI)
+# 1: Seamless
+[Design Case](https://www.saifkhawaja.com/seamless)
+[Video Demonstration](https://youtu.be/tIBk68pGvAc)
 
-![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.15.22%20PM.png)
+![](https://github.com/safekhawaja/misc_IoT/blob/master/IMG_1288)
 
-*Best Final Project, Product Design I (Instructor Rated)* — Collaborated with Ahmed Lone, Karman Cheema and Keen Thompson
+Collaborated with Anshul Tripathi and Jordan Semprevivo
 
-**ASK**
+Seamless is an ongoing project on integrating numerous creative arts through embedded systems and materials science. The first iteration, supported by a grant by The Sachs Program for Arts Innovation, was to combine music and art. 
 
-Students have to stay up til the wee hours of the morning, more often than not. Mental health issues are pervasive and people don’t receive enough sleep — when they do, it isn’t restful. We looked to redesign a product centered around their behaviors rather than fixing the behavior.
-
-**INSIGHT**
-
-The common platform for working late is the computer. These and the lights around you mimic daytime, so your body doesn’t start it’s winding down process. Blue light filters (such as f.lux) help block the spectrum of light your body recognizes as daylight, but only on computers.
-
-**SOLUTION**
-
-We redesigned the student lamp. LiteOwl sticks on walls and features voice control (Google Speech API), a long wavelength mode for softer lighting, and even a party mode (alternating colors of LEDs). We know you college students love a party. 
+We combined numerous methods, such as: 
+1. Using pulse-width modulation to create analog reactions through digital means.
+2. Mapping strength of signals from microphones to create volume dependent reaction (see video below). 
+3. Creating digital filters that work with a plugged-in iPhone and speaker to create interaction on a solid-state level. 
+4. Microphones and electronic signals to create short audio samples for FFT (still in progress).
 
 # 2: Work Incentive Chair
 [Promo Video](https://youtu.be/AwCX8rc5VsI)
@@ -48,3 +45,22 @@ Sensaira is an __*anti-pollution watch biosensor*__ that detects and responds to
 This biosensor has the parts of a wearable “watch,” genetically-modified yeast, a micro-controller and power source for Internet connectivity, integrated Bluetooth features (to connect to Apple Health or another application), and a method of detaching the dial to replace the yeast. The form is a re-imagining of the now redundant watch thanks to phones.
 
 The interaction is displayed through a gradient change of color in the bacteria. An alarm output is integrated into the device to ring if the concentration of toxins in the air is too high. This alarm will also be linked to an app that tracks data, and uses a greater network to send warning notifications to other people, if certain areas are extremely polluted. 
+
+# 4: LiteOwl
+[Promo Video](https://youtu.be/raqneUCBkyI)
+
+![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.15.22%20PM.png)
+
+*Best Final Project, Product Design I (Instructor Rated)* — Collaborated with Ahmed Lone, Karman Cheema and Keen Thompson
+
+**ASK**
+
+Students have to stay up til the wee hours of the morning, more often than not. Mental health issues are pervasive and people don’t receive enough sleep — when they do, it isn’t restful. We looked to redesign a product centered around their behaviors rather than fixing the behavior.
+
+**INSIGHT**
+
+The common platform for working late is the computer. These and the lights around you mimic daytime, so your body doesn’t start it’s winding down process. Blue light filters (such as f.lux) help block the spectrum of light your body recognizes as daylight, but only on computers.
+
+**SOLUTION**
+
+We redesigned the student lamp. LiteOwl sticks on walls and features voice control (Google Speech API), a long wavelength mode for softer lighting, and even a party mode (alternating colors of LEDs). We know you college students love a party. 
