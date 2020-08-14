@@ -1,38 +1,32 @@
 import gpiozero
-import google-cloud-speech
-from google.cloud import speech_v1p1beta1
-from google.cloud.speech_v1p1beta1 import enums
+import time
+import os
 
-def sample_recognize(storage_uri):
-    """
-    Performs synchronous speech recognition on an audio file
+led = gpiozero.RGBLED(red=9, green=10, blue=11)
+led.color = (1,0,0)
 
-    Args:
-      storage_uri URI for audio file in Cloud Storage, e.g. gs://[BUCKET]/[FILE]
-    """
+if input > x
+    output high to noise machine (to demonstrate reception)
+    execute Recording.py (which will return filename)
 
-    client = speech_v1p1beta1.SpeechClient()
+execute AudioProcessing.py, store output
 
-    # storage_uri = 'gs://cloud-samples-data/speech/brooklyn_bridge.mp3'
+        if output x
+            for n in range(100):
+            led.color = (1, n/100, n / 100);
+            time.sleep(100)
 
-    # The language of the supplied audio
-    language_code = "en-US"
+        elif output y
+            led.color = (1, 0, 0)
+            time.sleep(100)
 
-    # Sample rate in Hertz of the audio data sent
-    sample_rate_hertz = 44100
-
-    # Encoding of audio data sent. This sample sets this explicitly.
-    # This field is optional for FLAC and WAV audio formats.
-    encoding = enums.RecognitionConfig.AudioEncoding.MP3
-    config = {
-        "language_code": language_code,
-        "sample_rate_hertz": sample_rate_hertz,
-        "encoding": encoding,
-    }
-    audio = {"uri": storage_uri}
-
+    else pass
+"""
     response = client.recognize(config, audio)
     for result in response.results:
         # First alternative is the most probable result
         alternative = result.alternatives[0]
         print(u"Transcript: {}".format(alternative.transcript))
+"""
+
+os.remove("input.wav")
