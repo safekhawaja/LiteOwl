@@ -18,8 +18,7 @@ if AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.w
             for n in range(100):
             led.color = (1, n/100, n / 100);
             time.sleep(100)
-
-elif AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "red":
+    elif AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "red":
             led.color = (1, 0, 0)
             time.sleep(100)
 
