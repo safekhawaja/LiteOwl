@@ -3,7 +3,7 @@
 
 ![](https://github.com/safekhawaja/misc_IoT/blob/master/Screen%20Shot%202020-08-10%20at%202.15.22%20PM.png)
 
-*Best Final Project, Product Design I (Instructor Rated)* — Collaborated with Ahmed Lone, Karman Cheema and Keen Thompson
+*Best Final Project, Product Design I (Instructor Rated)*
 
 **ASK**
 
