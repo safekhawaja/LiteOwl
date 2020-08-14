@@ -4,11 +4,12 @@ import os
 import AudioProcessing
 
 led = gpiozero.RGBLED(red=9, green=10, blue=11)
-mike = gpiozero.Button(2)
-buzzer = gpiozero.LED(18)
 led.color = (1,0,0)
 
-if button.is_pressed:
+mic = gpiozero.Button(2)
+buzzer = gpiozero.LED(18)
+
+if mic.is_pressed:
     buzzer.on()
     time.sleep(1)
     buzzer.off()
