@@ -1,7 +1,7 @@
 from google.cloud import speech_v1p1beta1
 from google.cloud.speech_v1p1beta1 import enums
 
-def sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav):
+def sample_recognize(storage_uri):
     """
     Performs synchronous speech recognition on an audio file
 
