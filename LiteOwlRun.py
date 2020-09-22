@@ -14,8 +14,7 @@ if mic.is_pressed:
     time.sleep(1)
     buzzer.off()
     os.system('Recording.py')
-
-if AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "owl":
+    if AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "owl":
             for n in range(100):
             led.color = (1, n/100, n / 100);
             time.sleep(100)
