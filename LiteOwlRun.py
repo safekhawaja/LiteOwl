@@ -18,8 +18,8 @@ if mic.is_pressed:
             for n in range(100):
             led.color = (1, n/100, n / 100);
             time.sleep(100)
-    elif AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "red":
-            led.color = (1, 0, 0)
+    elif AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "blue":
+            led.color = (1, 1, 1)
             time.sleep(100)
 
 os.remove("input.wav")
