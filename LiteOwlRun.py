@@ -2,6 +2,7 @@ import gpiozero
 import time
 import os
 import AudioProcessing
+import Recording
 
 led = gpiozero.RGBLED(red=9, green=10, blue=11)
 led.color = (1,0,0)
@@ -13,7 +14,7 @@ if mic.is_pressed:
     buzzer.on()
     time.sleep(1)
     buzzer.off()
-    os.system('Recording.py')
+    record()
     if AudioProcessing.sample_recognize(/Users/Saif/Documents/GitHub/LiteOwl/input.wav) = "owl":
             for n in range(100):
             led.color = (1, n/100, n / 100);
